@@ -1,5 +1,7 @@
 # course_ComputationalIntelligence  
-a repository for studying for finals exam of course "Computational Intelligence"
+This repositry gives an overview of Computational Intelligence, which can also be called as Artificial Intelligence, or AI for short. Note that the notes are basically written in Japanese.  
+
+
 
 ## table of contents
 - ai-1-s: 
@@ -11,3 +13,9 @@ a repository for studying for finals exam of course "Computational Intelligence"
 - ai-7-s: 
 - ai-8-s: 
 - ai-9-s: 
+
+
+
+「本当に理解するためには、実装を自分で再現することが大切。」  
+    
+*lecture notes written by Takafumi Horiuchi*
