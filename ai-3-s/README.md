@@ -64,7 +64,8 @@
 まず**分割問題**について説明する。分割問題とは、ある問題をいくつかの小問題に分けて問題解決する手法である。ここでは、元の問題を**親問題**、分割した問題を**子問題**という。また、問題間の関係について、次の二つの結合を定義する。  
 **AND結合**: 子問題をすべて解決する必要がある場合（例：大学に行く＝＞家を出る、駅に向かう、電車に乗る、など）  
 **OR結合** : 子問題を一つ解決すれば良い場合（例：昼を食べる＝＞ハヤシライス屋に行く、ハンバーグ屋に行く、唐揚げ屋に行く、など）  
-これら二つの結合を用いて分割問題を階層的に表現したものが**AND/OR木**である。![an example of an AND/OR tree](https://en.wikipedia.org/wiki/File:Andortree.png)  
+これら二つの結合を用いて分割問題を階層的に表現したものが**AND/OR木**である。  
+![an example of an AND/OR tree](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Andortree.png/638px-Andortree.png)  
 
 
 
