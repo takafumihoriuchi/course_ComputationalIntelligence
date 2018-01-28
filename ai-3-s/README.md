@@ -54,7 +54,7 @@
 　ミニマックス法の説明で、探索木を構成する際に全数探索となってしまうと現実的な資源で解くことができなくなってしまうと述べたが、これを解消する方法の一つに「アルファベータ法」がある。つまり、アルファベータ法とは、ミニマックス法を、どのように簡略化するかに関する方法である。
 アルファベータ**枝刈り**とは、探索木の枝をアルファベータ法で省略していくことを意味する。  
 
-アルファベータ法の概要について良い説明があった（＊）ので引用する。  
+アルファベータ法の概要について良い説明があったので引用[1]する。
 >Alpha-Beta pruning is not actually a new algorithm, rather an optimization technique for minimax algorithm. It reduces the computation time by a huge factor. This allows us to search much faster and even go into deeper levels in the game tree. It cuts off branches in the game tree which need not be searched because there already exists a better move available. It is called Alpha-Beta pruning because it passes 2 extra parameters in the minimax function, namely alpha and beta.  
 
 

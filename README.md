@@ -1,5 +1,5 @@
 # course_ComputationalIntelligence  
-This repositry gives an overview of Computational Intelligence, which can also be called as Artificial Intelligence, or AI for short. Note that the READMEs in each directory and comments in codes are basically written in Japanese.  
+This repositry gives an overview of Computational Intelligence (AI). Contents are based on a lecture on the subject. Note that the READMEs in each directories and comments in codes are basically written in Japanese.  
 
 
 ## table of contents
