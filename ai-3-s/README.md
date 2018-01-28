@@ -140,6 +140,6 @@ ORノードであれば、その子ノードをひとつずつ加えたグラフ
 >本当に理解するためには、実装を自分で再現することが大切。
 
 ### references
-[1] https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/
-[2] http://ix9.jp/softcomputing/ai-4.shtml
-[3] https://ja.wikipedia.org/wiki/%E5%9B%9A%E4%BA%BA%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E
+[1] https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/  
+[2] http://ix9.jp/softcomputing/ai-4.shtml  
+[3] https://ja.wikipedia.org/wiki/%E5%9B%9A%E4%BA%BA%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E  
