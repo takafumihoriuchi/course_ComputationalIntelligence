@@ -9,7 +9,7 @@ This repositry gives an overview of Computational Intelligence (AI). Contents ar
 - ai-4-s: 
 - ai-5-s: 
 - ai-6-s: 
-- ai-7-s: 
+- ai-7-s: Neural Networks
 - ai-8-s: 
 - ai-9-s: 
 
