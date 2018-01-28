@@ -1,6 +1,5 @@
 # course_ComputationalIntelligence  
-This repositry gives an overview of Computational Intelligence, which can also be called as Artificial Intelligence, or AI for short. Note that the notes are basically written in Japanese.  
-
+This repositry gives an overview of Computational Intelligence, which can also be called as Artificial Intelligence, or AI for short. Note that the READMEs in each directory and comments in codes are basically written in Japanese.  
 
 
 ## table of contents
@@ -15,7 +14,4 @@ This repositry gives an overview of Computational Intelligence, which can also b
 - ai-9-s: 
 
 
-
-「本当に理解するためには、実装を自分で再現することが大切。」  
-    
 *lecture notes written by Takafumi Horiuchi*
