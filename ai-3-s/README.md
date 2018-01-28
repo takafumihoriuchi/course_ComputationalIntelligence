@@ -51,22 +51,23 @@
 
 #### アルファベータ枝刈り  
 
-　ミニマックス法の説明で、探索木を構成する際に全数探索となってしまうと現実的な資源で解くことができなくなってしまうと述べたが、これを解消する方法の一つに「アルファベータ法」がある。つまり、アルファベータ法とは、ミニマックス法を、どのように簡略化するかに関する方法である。
+　ミニマックス法の説明で、探索木を構成する際に全数探索となってしまうと現実的な資源で解くことができなくなってしまうと述べたが、これを解消する方法の一つに「アルファベータ法」がある。つまり、アルファベータ法とは、ミニマックス法を、不要な探索を省略することで簡略化したものである。
 アルファベータ**枝刈り**とは、探索木の枝をアルファベータ法で省略していくことを意味する。  
-
 アルファベータ法の概要について良い説明があったので引用[1]する。
->Alpha-Beta pruning is not actually a new algorithm, rather an optimization technique for minimax algorithm. It reduces the computation time by a huge factor. This allows us to search much faster and even go into deeper levels in the game tree. It cuts off branches in the game tree which need not be searched because there already exists a better move available. It is called Alpha-Beta pruning because it passes 2 extra parameters in the minimax function, namely alpha and beta.  
+>Alpha-Beta pruning is not actually a new algorithm, rather an optimization technique for minimax algorithm. It reduces the computation time by a huge factor. This allows us to search much faster and even go into deeper levels in the game tree. It cuts off branches in the game tree which need not be searched because there already exists a better move available. It is called Alpha-Beta pruning because it passes 2 extra parameters in the minimax function, namely alpha and beta.
+アルファベータ法の注意点として、葉は終了した時の評価値を保持しているが、それが最大のものが戦略的に最も良いとは限らないとうことである。これは、ゲームでは、相手にとって悪い手を選択することを考慮に入れつつ、自分にとって良い手を選択する必要があるためである。アルファベータ法をC言語で記述したものが**minmax.c**である。  
 
-
+　以上がミニマックス法およびそれを効率化したアルファベータ法の説明であった。次に、別のタイプの探索木である「AND/OR木」を取り上げる。
 
 ### AND/OR木  
 
 
-## ゲーム理論の入門  
+
+## ゲーム理論入門  
 
 
-#### 心得
-「本当に理解するためには、実装を自分で再現することが大切。」
+### 心得
+>「本当に理解するためには、実装を自分で再現することが大切。」
 
-#### references
+### references
 [1] https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/
