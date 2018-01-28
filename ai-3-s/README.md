@@ -103,7 +103,7 @@ ORノードであれば、その子ノードをひとつずつ加えたグラフ
 
 以上が、AND/OR木についての説明であった。
   
-![an example of an AND/OR tree](http://www.ita.cs.tut.ac.jp/~eikichi/report/ke2_1.gif)  
+![an example of an AND/OR tree](http://ix9.jp/softcomputing/img/ai/fig42.png)  
 
 
 ## ゲーム理論入門  
