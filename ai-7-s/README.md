@@ -147,8 +147,7 @@ Eを最小にするべく（つまり出力を教師データに一致させた�
 - Convolutional Neural Network
 - Recurrent Neural Network
 - Hopfield Network
-- Boltzman Machine
-- ...  
+- Boltzman Machine  
 
 
 ### Deep Q-Network (DQN)
