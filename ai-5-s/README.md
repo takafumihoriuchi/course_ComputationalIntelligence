@@ -14,12 +14,12 @@
 
 ## 動的計画法
 
-
+(comming soon)
 
 
 ## 確率の復習
 
-
+(comming soon)
 
 
 ## 基本事項
