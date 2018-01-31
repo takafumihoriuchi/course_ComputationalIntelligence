@@ -8,8 +8,8 @@ This repositry gives an overview of Computational Intelligence (AI). Contents ar
 - ai-3-s: Introduction to Games and Game Theory
 - ai-4-s: 
 - ai-5-s: Reinforcement Learning
-- ai-6-s: 
-- ai-7-s: Neural Networks (continue from DQN)
+- ai-6-s: Introduction to Clustering and PCA
+- ai-7-s: Neural Networks
 - ai-8-s: 
 - ai-9-s: 
 
